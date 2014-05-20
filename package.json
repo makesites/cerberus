@@ -1,0 +1,36 @@
+{
+	"name": "cerberus",
+	"version": "0.0.1",
+	"description": "A midddleware that tracks down malicious server activity",
+	"author": "makesites",
+	"contributors": [
+		{
+			"name": "Makis Tracend",
+			"email": "makis@makesit.es"
+		}
+	],
+	"homepage": "http://makesites.org",
+	"keywords": [
+		"node", "server", "protect", "security", "ddos"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/makesites/cerberus"
+	},
+	"bugs": {
+		"url": "https://github.com/makesites/cerberus/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT License",
+			"url": "http://www.makesites.org/licenses/MIT"
+		}
+	],
+	"main": "./index.js",
+	"engines": {
+		"node": ">=0.8.x"
+	},
+	"dependencies": {
+		"handlebars": "~2.0.0"
+	}
+}
