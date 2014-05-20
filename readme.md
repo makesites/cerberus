@@ -2,7 +2,7 @@
 
 A middleware that tracks down malicious server activity
 
-![Cerberus logo](http://imgur.com/Ow7ll0i)
+![Cerberus logo](http://i.imgur.com/Ow7ll0i.png?1)
 
 
 ## Features
