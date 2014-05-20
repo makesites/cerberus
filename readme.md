@@ -1,11 +1,15 @@
-## Handlebars
+## Cerberus
 
 A middleware that tracks down malicious server activity
+
+![Cerberus logo](http://imgur.com/Ow7ll0i)
 
 
 ## Features
 
-...
+* Recording all client IPs
+* Limiting pings per IP (per sec)
+* IP whitelist/blacklist
 
 
 ## Install
