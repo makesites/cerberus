@@ -31,6 +31,8 @@
 		"node": ">=0.8.x"
 	},
 	"dependencies": {
-		"handlebars": "~2.0.0"
+		"cell": "*",
+		"handlebars": "~2.0.0",
+		"underscore": "~1.6.0"
 	}
 }
