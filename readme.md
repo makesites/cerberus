@@ -1,6 +1,6 @@
 ## Handlebars
 
-A midddleware that tracks down malicious server activity
+A middleware that tracks down malicious server activity
 
 
 ## Features

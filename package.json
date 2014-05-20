@@ -1,7 +1,7 @@
 {
 	"name": "cerberus",
 	"version": "0.0.1",
-	"description": "A midddleware that tracks down malicious server activity",
+	"description": "A middleware that tracks down malicious server activity",
 	"author": "makesites",
 	"contributors": [
 		{
